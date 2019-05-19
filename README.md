@@ -1,1 +1,6 @@
-# MEX-APP
+This is a privat project, I am doing for an upcoming event which I wanted to help. They were searching for someone, programming them an App, to help with navigation in and around the convention. It also will come with a newsticker. But so far, there isn't anything done for this yet, because of some lack of time and privat reasons.
+Until now, most of the layouts are done, but we are still looking at fillers and not the main graphics, because I am still waiting for them. Sorry for that. 
+The code is not commented yet neither is it cleaned up or good in any way. I almost did copy+paste when I got something ready, to see how it will work in the very end. So please don't look too much on that, because I gonna clean that up later.
+This App is supposed to help the normal visitor of the event. Give him timetables, maps, menues (for the restaurants), information about the location and settings, and so on. 
+And WHY do they and I actually want that? Because of the big paper waste we had in the last couple of years, plus the stress of changing stuff last minute and the need of paying more for the express print. So we are looking forward that this app will be updatable even while the event is going, so no one has to get grey hair.
+Thanks for reading :)
